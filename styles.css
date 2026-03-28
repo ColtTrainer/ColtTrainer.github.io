@@ -1,0 +1,43 @@
+h1{
+    color: blue;
+    font-size: 40px;
+    font-family: cursive;
+}
+
+h2{
+    color: rgb(6, 102, 73);
+    font-family: 'Courier New', Courier, monospace;
+}
+
+h3{
+    color: rgb(212, 0, 0);
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.box{
+    text-align: center;
+    height: 150px;
+    width: 750px;
+    padding: 20px;
+    margin: 50px;
+    border: 10px solid black;
+    background-color: rgb(226, 226, 226);
+}
+
+.main{
+    height: 475px;
+    width: 750px;
+    padding: 20px;
+    margin: 50px;
+    border: 10px solid rgb(183, 37, 81);
+    background-color: rgb(213, 212, 178);
+}
+
+.list{
+    height: 200px;
+    width: 750px;
+    padding: 20px;
+    margin: 50px;
+    border: 10px solid rgb(34, 135, 84);
+    background-color: rgb(208, 221, 230);
+}
